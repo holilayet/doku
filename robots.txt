@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://doku.edu.pl/sitemap.xml
